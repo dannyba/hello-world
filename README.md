@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Hello World example
+Hi,
+
+This is the updated README file
